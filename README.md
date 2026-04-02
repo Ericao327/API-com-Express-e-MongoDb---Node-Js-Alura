@@ -133,5 +133,3 @@ API-com-Express-e-MongoDb---Node-Js-Alura/
 - [Curso Alura](https://cursos.alura.com.br/course/node-js-api-rest-express-mongodb)
 
 ---
-
-**Desenvolvido com ❤️ durante o curso da Alura**
