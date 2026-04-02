@@ -121,17 +121,9 @@ API-com-Express-e-MongoDb---Node-Js-Alura/
 - Boas práticas em desenvolvimento de APIs
 - Estruturação de projetos Node.js
 
-## 🤝 Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests para melhorias.
-
-## 📝 Licença
-
-Este projeto é de código aberto e está disponível sob a licença MIT.
-
 ## 👤 Autor
 
-- **Erica** - [@Ericao327](https://github.com/Ericao327)
+- **Eric** - [@Ericao327](https://github.com/Ericao327)
 
 ## 🔗 Links Úteis
 
